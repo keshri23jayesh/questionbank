@@ -4,6 +4,7 @@ from .models import Branch, Semester, Subject, College, Question, Comment
 # admin.site.register(Album)
 # admin.site.register(Song)
 # admin.site.register(Test)
+# Test string
 admin.site.register(College)
 admin.site.register(Semester)
 admin.site.register(Branch)
