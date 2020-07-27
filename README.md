@@ -1,5 +1,5 @@
 # questionbank
 Questionbank under development for the students of the BIT and some other colleges .
-http://admin1500616.pythonanywhere.com/bank/
+https://angel.co/projects/877567-question-bank
 
 Technology used :- Python (Django),HTML,CSS,JAVASCRIPT,BOOTSTRAP.
